@@ -16,7 +16,8 @@ sysinfo.txt
 /*.unityproj
 /*.booproj
 /.idea*/
- 
+ *.pidb.meta
+
 # ============ #
 # OS generated #
 # ============ #
@@ -36,4 +37,10 @@ ehthumbs.db
 
 vscode/
 *.~
+.vs/
 
+# ============ #
+# Kinect SDK
+# ============ #
+Assets/Standard\ Assets
+Assets/Plugins
